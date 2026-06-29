@@ -70,7 +70,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjaykumarand&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=gss-projects&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">⭐ <i>If you find my projects helpful, consider giving them a star!</i> ⭐</p>
