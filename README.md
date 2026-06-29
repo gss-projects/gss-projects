@@ -5,11 +5,11 @@
   GURUMURTHY G -
   <a href="https://www.linkedin.com/in/gurumurthy-g-902357335/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="GURUMURTHY G"/>
-  </a><br>
+  </a><br><br>
   SACHIN S -
    <a href="https://www.linkedin.com/in/sachin5116" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="SACHIN S"/>
-  </a><br>
+  </a><br><br>
   SANJAY KUMARAN D -
   <a href="https://www.linkedin.com/in/sanjaykumarand" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="SANJAY KUMARAN D"/>
